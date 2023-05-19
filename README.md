@@ -12,9 +12,9 @@ Xcode: 14.3
 
 ### Steps
 1. clone project
-2. open TestRNSScreens folder in terminal
+2. open TestReactNativeVectorIcons folder in terminal
 3. run "pod install"
-4. open "TestRNSScreens.xcworkspace" in Xcode
+4. open "TestReactNativeVectorIcons.xcworkspace" in Xcode
 5. run
 6. click on "Open RN App" button
 7. click on "close" button
